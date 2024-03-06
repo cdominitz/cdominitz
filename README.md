@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Calista Dominitz
 
 <!--
 **cdominitz/cdominitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Calista Dominitz
-
-- 👋 Hi there! I'm Calista Dominitz, a software engineer with a passion for problem-solving in healthcare and beyond.
+- 👋 I'm a software engineer with a passion for problem-solving in healthcare and beyond.
 - 💻 On GitHub, you'll find a collection of my projects that showcase my expertise in software development and my dedication to creating impactful solutions.
 - 🔍 I'm currently seeking opportunities in the tech industry, with a particular interest in roles that allow me to leverage my skills to make a difference in healthcare and other industries. Let's connect and discuss potential collaborations or opportunities!
 - 📫 Feel free to reach out to me via email at cdominitz@gmail.com or connect with me on LinkedIn at [linkedin.com/in/calista-dominitz](linkedin.com/in/calista-dominitz).
